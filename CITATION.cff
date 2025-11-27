@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Se você usar este software, por favor cite-o como abaixo."
+authors:
+- family-names: "Dominguez"
+  given-names: "Geraldo"
+title: "SmartDBA Toolkit"
+version: 1.0.0
+date-released: 2025-11-27
+url: "https://github.com/geraldodominguez/SmartDBA"
